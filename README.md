@@ -10,9 +10,13 @@ I'm Prashant Thummar, a passionate backend engineer specializing in Django devel
 
 💬 Feel free to reach out to discuss your project ideas or for any assistance related to Django development.
 
-📫 You can reach me via email at prashantthumar75@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/prashant-thumar).
-
 😄 Let's turn your ideas into reality together!
 
 ⚡ Fun fact: I once developed a Django application that helped a local charity organization streamline their donation process, resulting in a significant increase in donations and community engagement.
 
+
+- Portfolio : https://prashantthummar.vercel.app/
+- Linkedin : https://linkedin.com/in/prashant-thumar/
+- Medium : https://medium.com/@prashantthumar75
+- Email : prashantthumar75@gmail.com
+- StackOverflow : https://stackoverflow.com/users/14439850/prashant-thumar
