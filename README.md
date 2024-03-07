@@ -10,7 +10,7 @@ I'm Prashant Thummar, a passionate backend engineer specializing in Django devel
 
 💬 Feel free to reach out to discuss your project ideas or for any assistance related to Django development.
 
-📫 You can reach me via email at [prashantthumar75@gmail.com] or connect with me on [LinkedIn](www.linkedin.com/in/prashant-thumar).
+📫 You can reach me via email at prashantthumar75@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/prashant-thumar).
 
 😄 Let's turn your ideas into reality together!
 
