@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Prashant Thummar, a passionate backend engineer specializing in Django development. 
+I'm Prashant Patel, a passionate backend engineer specializing in Django development. 
 
 I’m currently working on building scalable web applications and refining my skills in Django and Python.
 
@@ -12,8 +12,5 @@ I’m open to collaborating on exciting Django projects that require expertise i
 
 😄 Let's turn your ideas into reality together!
 
-Fun fact: I once developed a Django application that helped a local charity organization streamline their donation process, resulting in a significant increase in donations and community engagement.
-
-
-- Portfolio : https://prashantpatel.vercel.app/
+Portfolio : https://prashantpatel.vercel.app/
 - Linkedin : https://www.linkedin.com/in/prashantpatelengineer/
